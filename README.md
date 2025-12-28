@@ -8,7 +8,7 @@ Currently building real-world projects instead of collecting certificates.
 ---
 
 ## 🧠 What I’m Working On
-- Cloud projects on **AWS & Azure (Free Tier / Student)**
+- Cloud projects on **AWS (Free Tier / Student)**
 - Linux-based security & monitoring setups
 - Backend + automation using **Python**
 - Learning system-level concepts (Networking, OS, Security)
@@ -20,11 +20,9 @@ Currently building real-world projects instead of collecting certificates.
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
 
 ### 🔐 Security & Networking
@@ -35,7 +33,7 @@ Currently building real-world projects instead of collecting certificates.
 ### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
+![Emacs](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
