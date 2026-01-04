@@ -2,7 +2,7 @@
 
 🎓 BCA Student | 💻 Aspiring Cloud & Security Engineer | 🛠️ Project-Driven Learner  
 
-I focus on **hands-on projects** in cloud, Linux, networking, and backend systems.  
+I focus on **hands-on projects** in cloud, Linux, networking.  
 Currently building real-world projects instead of collecting certificates.
 
 ---
@@ -10,7 +10,7 @@ Currently building real-world projects instead of collecting certificates.
 ## 🧠 What I’m Working On
 - Cloud projects on **AWS (Free Tier / Student)**
 - Linux-based security & monitoring setups
-- Backend + automation using **Python**
+- Automation using **Python**
 - Learning system-level concepts (Networking, OS, Security)
 
 ---
@@ -36,7 +36,7 @@ Currently building real-world projects instead of collecting certificates.
 ![Emacs](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode)
 
 ---
-
+<!--
 ## 🚀 Featured Projects
 
 ### 🔹 NETMON – Network Monitoring & Alerting System
@@ -55,6 +55,6 @@ Currently building real-world projects instead of collecting certificates.
 - Security-focused configurations
 ➡️ *Repo:* `<link>`
 
----
+--->
 
 > I believe skills are proven through **projects**.
